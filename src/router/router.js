@@ -6,14 +6,17 @@ const router = createRouter({
     {
       path: '/',
       name: 'Home',
-      component: () => import('@/views/home.vue'),
-      meta: { title: 'home' }
+      component: () => import('@/views/Home.vue'),
     },
     {
-      path: '/taulaPeriodica',
-      name: 'Taula Periodica',
-      component: () => import('@/views/TaulaPeriodica.vue'),
-      meta: { title: 'Taula Periodica' }
+      path: '/periodicTable',
+      name: 'Periodic Table',
+      component: () => import('@/views/PeriodicTable.vue'),
+    },
+    {
+      path: '/game',
+      name: 'Game Taula Periodica',
+      component: () => import('@/views/Game.vue'),
     },
     {
       path: '/:pathMatch(.*)',

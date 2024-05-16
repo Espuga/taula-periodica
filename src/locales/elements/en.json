@@ -1,0 +1,109 @@
+{
+  "alumini": "Aluminum",
+  "antimoni": "Antimony",
+  "argo": "Argon",
+  "arsenic": "Arsenic",
+  "astat": "Astatine",
+
+  "bari": "Barium",
+  "berili": "Beryllium",
+  "bismut": "Bismuth",
+  "bohri": "Bohrium",
+  "bor": "Boron",
+  "brom": "Bromine",
+
+  "carboni": "Carbon",
+  "calci": "Calcium",
+  "cadmi": "Cadmium",
+  "cesi": "Cesium",
+  "clor": "Chlorine",
+  "crom": "Chromium",
+  "coure": "Copper",
+  "cobalt": "Cobalt",
+  "cripto": "Krypton",
+  "copernici": "Copernicium",
+
+  "dubni": "Dubnium",
+  "darmstadi": "Darmstadtium",
+
+  "escandi": "Scandium",
+  "estany": "Tin",
+  "estronci": "Strontium",
+
+  "fosfor": "Phosphorus",
+  "ferro": "Iron",
+  "franci": "Francium",
+  "flerovi": "Flerovium",
+  "fluor": "Fluorine",
+
+  "gali": "Gallium",
+  "germani": "Germanium",
+
+  "hidrogen": "Hydrogen",
+  "heli": "Helium",
+  "hafni": "Hafnium",
+  "hassi": "Hassium",
+  
+  "itri": "Yttrium",
+  "indi": "Indium",
+  "iode": "Iodine",
+  "iridi": "Iridium",
+
+  "liti": "Lithium",
+  "livermori": "Livermorium",
+
+  "magnesi": "Magnesium",
+  "manganes": "Manganese",
+  "molibde": "Molybdenum",
+  "mercuri": "Mercury",
+  "meitneri": "Meitnerium",
+  "moscovi": "Moscovium",
+
+  "niquel": "Nickel",
+  "nitrogen": "Nitrogen",
+  "neo": "Neon",
+  "niobi": "Niobium",
+  "nihoni": "Nihonium",
+
+  "oxigen": "Oxygen",
+  "osmi": "Osmium",
+  "or": "Gold",
+  "oganeso": "Oganesson",
+
+  "potassi": "Potassium",
+  "paladi": "Palladium",
+  "plata": "Silver",
+  "plati": "Platinum",
+  "plom": "Lead",
+  "poloni": "Polonium",
+  
+  "reni": "Rhenium",
+  "rado": "Radon",
+  "ruteni": "Ruthenium",
+  "rodi": "Rhodium",
+  "radi": "Radium",
+  "rutherfordi": "Rutherfordium",
+  "roentgeni": "Roentgenium",
+  "rubidi": "Rubidium",
+  
+  "seleni": "Selenium",
+  "seaborgi": "Seaborgium",
+  "sodi": "Sodium",
+  "silici": "Silicon",
+  "sofre": "Sulfur",
+  
+  "tali": "Thallium",
+  "tecneci": "Technetium",
+  "titani": "Titanium",
+  "teluri": "Tellurium",
+  "tantal": "Tantalum",
+  "tungste": "Tungsten",
+  "tennes": "Tennessine",
+
+  "vanadi": "Vanadium",
+  
+  "xeno": "Xenon",
+  
+  "zirconi": "Zirconium",
+  "zinc": "Zinc"
+}
